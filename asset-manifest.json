@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ecomerce-WebSite/static/css/main.0af2f5ad.css",
-    "main.js": "/Ecomerce-WebSite/static/js/main.3bf54d2a.js",
+    "main.js": "/Ecomerce-WebSite/static/js/main.b9c82f71.js",
     "static/media/bannerImgTwo.webp": "/Ecomerce-WebSite/static/media/bannerImgTwo.d93152138c5c9da3de58.webp",
     "static/media/bannerImgThree.webp": "/Ecomerce-WebSite/static/media/bannerImgThree.cdd63ff84acf53a73a0d.webp",
     "static/media/saleImgTwo.webp": "/Ecomerce-WebSite/static/media/saleImgTwo.ecb733524e878406c281.webp",
@@ -25,10 +25,10 @@
     "static/media/newArrOne.webp": "/Ecomerce-WebSite/static/media/newArrOne.5982a995e5c312914fe6.webp",
     "index.html": "/Ecomerce-WebSite/index.html",
     "main.0af2f5ad.css.map": "/Ecomerce-WebSite/static/css/main.0af2f5ad.css.map",
-    "main.3bf54d2a.js.map": "/Ecomerce-WebSite/static/js/main.3bf54d2a.js.map"
+    "main.b9c82f71.js.map": "/Ecomerce-WebSite/static/js/main.b9c82f71.js.map"
   },
   "entrypoints": [
     "static/css/main.0af2f5ad.css",
-    "static/js/main.3bf54d2a.js"
+    "static/js/main.b9c82f71.js"
   ]
 }
